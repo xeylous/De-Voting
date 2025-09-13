@@ -1,4 +1,4 @@
-export const CONTRACT_ADDRESS = "0x9F69Aea7E2c88A437D66ce62c9E5bE0e9D059ce3";
+export const CONTRACT_ADDRESS = "0xDa65C8dB92a5Cc03398407E8BbfD85Bc2c3f8B4c";
 
 export const CONTRACT_ABI = [
 	{
@@ -15,13 +15,7 @@ export const CONTRACT_ABI = [
 		"type": "function"
 	},
 	{
-		"inputs": [
-			{
-				"internalType": "string[]",
-				"name": "candidateNames",
-				"type": "string[]"
-			}
-		],
+		"inputs": [],
 		"stateMutability": "nonpayable",
 		"type": "constructor"
 	},
